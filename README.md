@@ -28,7 +28,7 @@
 - ⚡ Fun fact **Learning programming and writing blog**
 
 <h3 align="left">Connect with me:</h3> 
-<a href="https://www.linkedin.com/in/md-robiul-hossain-359683202/"
+<a href="https://www.linkedin.com/in/md-robiul-hossain-359683202/">
 <p align="left">
 </p>
 
