@@ -1,6 +1,6 @@
 
 <img src="https://i.ibb.co.com/bjfmqyRr/Programmer-Modern-Blue-Linkedin-Background.png">
-
+<p>I specialize in building fast, secure, and fully-customized WordPress websites—from pixel-perfect themes to advanced plugins and seamless integrations. With a strong focus on clean code, performance, and user-centric design, I create solutions that help businesses grow and stand out online.</p>
 <h1 align="center"></h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
