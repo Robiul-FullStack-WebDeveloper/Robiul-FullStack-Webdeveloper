@@ -1,6 +1,6 @@
 
 <img src="https://i.ibb.co.com/bjfmqyRr/Programmer-Modern-Blue-Linkedin-Background.png">
-<h3 align="center">A passionate FullStack developer from Bangladesh</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 <p>I specialize in building fast, secure, and fully-customized WordPress websites—from pixel-perfect themes to advanced plugins and seamless integrations. With a strong focus on clean code, performance, and user-centric design, I create solutions that help businesses grow and stand out online.</p>
 <h3 align="center">My Approach</h3>
 <p>I combine modern web development practices with WordPress expertise to deliver scalable, maintainable, and high-quality solutions. Every project is built with attention to detail and long-term reliability.</p>
