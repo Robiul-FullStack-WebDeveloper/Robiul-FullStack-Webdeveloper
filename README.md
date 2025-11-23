@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **devrobiul19@gmail.com**
 
-- ⚡ Fun fact **Learning and Coding**
+- ⚡ Fun fact **Learning, programming, Coding and writing blog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
